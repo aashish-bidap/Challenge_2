@@ -2,6 +2,17 @@
 
 An application that allows a user to manage subscriptions using Stripe and Python Django 2.
 
+**DEMO EXECUTION - Click below on the Video** <br>
+<div align="center">
+      <a href="https://youtu.be/tEorn2Kkwb4">
+     <img 
+      src="https://img.youtube.com/vi/tEorn2Kkwb4/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+
+
 **Functional Flow :**
 
 **1.Old Users can Login / New Users registration.**
